@@ -1,4 +1,4 @@
-# Messenger for Franz
+# Tawk for Franz
 This is the official Franz recipe for Tawk.to
 
 ### How to create your own Franz recipes:
